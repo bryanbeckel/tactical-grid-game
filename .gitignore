@@ -1,0 +1,17 @@
+# Target directory (compiled build outputs)
+target/
+
+# IDE specific files (VS Code configuration)
+.vscode/
+*.code-workspace
+
+# Java upgrade tool output (VS Code App Modernization extension)
+.github/modernize/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Log files
+*.log
